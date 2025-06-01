@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trevor Kim</h1>
 <p align="center">just a normal guy</p>
-<h2>🚀 I'm good at these</h2>
+<h2>🚀 I use these the most</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
