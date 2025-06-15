@@ -19,5 +19,5 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a> 
-  <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img width=4% src="[https://ibb.co/9HHm6yHY](https://i.ibb.co/RTTGfQTH/Adobe-Express-file.png)" alt="ocaml"/></a>
+  <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img width=4% src="https://i.ibb.co/RTTGfQTH/Adobe-Express-file.png" alt="ocaml"/></a>
 </p>
