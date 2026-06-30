@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Trevor Kim</h1>
-<p align="center">just a normal guy</p>
+<h1 align="center">helo</h1>
+<p align="center">a bad day means a good day soon</p>
 <h2> I use these the most</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
